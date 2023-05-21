@@ -1,0 +1,17 @@
+C:\Users\Jhozua Diaz\Documents\Programming\API\dotnet6-tribe-manager-api\dotnet6-tribe-manager.infrastructure\bin\Debug\net6.0\dotnet6-tribe-manager.infrastructure.deps.json
+C:\Users\Jhozua Diaz\Documents\Programming\API\dotnet6-tribe-manager-api\dotnet6-tribe-manager.infrastructure\bin\Debug\net6.0\dotnet6-tribe-manager.infrastructure.dll
+C:\Users\Jhozua Diaz\Documents\Programming\API\dotnet6-tribe-manager-api\dotnet6-tribe-manager.infrastructure\bin\Debug\net6.0\dotnet6-tribe-manager.infrastructure.pdb
+C:\Users\Jhozua Diaz\Documents\Programming\API\dotnet6-tribe-manager-api\dotnet6-tribe-manager.infrastructure\bin\Debug\net6.0\dotnet6-tribe-manager.application.dll
+C:\Users\Jhozua Diaz\Documents\Programming\API\dotnet6-tribe-manager-api\dotnet6-tribe-manager.infrastructure\bin\Debug\net6.0\dotnet6-tribe-manager.domain.dll
+C:\Users\Jhozua Diaz\Documents\Programming\API\dotnet6-tribe-manager-api\dotnet6-tribe-manager.infrastructure\bin\Debug\net6.0\dotnet6-tribe-manager.application.pdb
+C:\Users\Jhozua Diaz\Documents\Programming\API\dotnet6-tribe-manager-api\dotnet6-tribe-manager.infrastructure\bin\Debug\net6.0\dotnet6-tribe-manager.domain.pdb
+C:\Users\Jhozua Diaz\Documents\Programming\API\dotnet6-tribe-manager-api\dotnet6-tribe-manager.infrastructure\obj\Debug\net6.0\dotnet6-tribe-manager.infrastructure.csproj.AssemblyReference.cache
+C:\Users\Jhozua Diaz\Documents\Programming\API\dotnet6-tribe-manager-api\dotnet6-tribe-manager.infrastructure\obj\Debug\net6.0\dotnet6-tribe-manager.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhozua Diaz\Documents\Programming\API\dotnet6-tribe-manager-api\dotnet6-tribe-manager.infrastructure\obj\Debug\net6.0\dotnet6-tribe-manager.infrastructure.AssemblyInfoInputs.cache
+C:\Users\Jhozua Diaz\Documents\Programming\API\dotnet6-tribe-manager-api\dotnet6-tribe-manager.infrastructure\obj\Debug\net6.0\dotnet6-tribe-manager.infrastructure.AssemblyInfo.cs
+C:\Users\Jhozua Diaz\Documents\Programming\API\dotnet6-tribe-manager-api\dotnet6-tribe-manager.infrastructure\obj\Debug\net6.0\dotnet6-tribe-manager.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Jhozua Diaz\Documents\Programming\API\dotnet6-tribe-manager-api\dotnet6-tribe-manager.infrastructure\obj\Debug\net6.0\dotnet6-tribe-manager.infrastructure.csproj.CopyComplete
+C:\Users\Jhozua Diaz\Documents\Programming\API\dotnet6-tribe-manager-api\dotnet6-tribe-manager.infrastructure\obj\Debug\net6.0\dotnet6-tribe-manager.infrastructure.dll
+C:\Users\Jhozua Diaz\Documents\Programming\API\dotnet6-tribe-manager-api\dotnet6-tribe-manager.infrastructure\obj\Debug\net6.0\refint\dotnet6-tribe-manager.infrastructure.dll
+C:\Users\Jhozua Diaz\Documents\Programming\API\dotnet6-tribe-manager-api\dotnet6-tribe-manager.infrastructure\obj\Debug\net6.0\dotnet6-tribe-manager.infrastructure.pdb
+C:\Users\Jhozua Diaz\Documents\Programming\API\dotnet6-tribe-manager-api\dotnet6-tribe-manager.infrastructure\obj\Debug\net6.0\ref\dotnet6-tribe-manager.infrastructure.dll
